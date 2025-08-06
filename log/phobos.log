@@ -1,0 +1,17 @@
+{"timestamp":"2025-08-06T14:16:27.301384-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-06T14:16:27.334026-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener started","listener_id":"a86ea4","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-06T14:16:30.135893-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener stopping","listener_id":"a86ea4","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:38:01.212851-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-07T13:38:01.222192-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener started","listener_id":"b3776e","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:38:07.543121-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-07T13:40:03.765598-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-07T13:40:07.246516-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener stopping","listener_id":"b3776e","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:40:08.907463-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener stopped","listener_id":"b3776e","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:40:08.908437-06:00","level":"INFO","logger":"Phobos","message":{"message":"Executor stopped"}}
+{"timestamp":"2025-08-07T13:43:27.108278-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-07T13:43:27.118797-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener started","listener_id":"5c0881","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:43:40.932324-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener stopping","listener_id":"5c0881","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:43:42.219645-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener stopped","listener_id":"5c0881","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
+{"timestamp":"2025-08-07T13:43:42.220065-06:00","level":"INFO","logger":"Phobos","message":{"message":"Executor stopped"}}
+{"timestamp":"2025-08-07T14:01:27.183214-06:00","level":"INFO","logger":"Phobos","message":{"message":"Phobos configured","env":"N/A"}}
+{"timestamp":"2025-08-07T14:01:27.192023-06:00","level":"INFO","logger":"Phobos","message":{"message":"Listener started","listener_id":"5502fd","group_id":"test-1","topic":"subscribe","handler":"SubscribeHandlerPhobos"}}
